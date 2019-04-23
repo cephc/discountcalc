@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <html>
 <head>
-	<title>My Discount Calc</title>
 	<link rel="stylesheet" href="styling.css">
 	<script src="javascript.js"></script>
 </head>
