@@ -1,0 +1,32 @@
+body{
+	background-color: lightyellow;
+}
+h1{
+	color: pink;
+	text-align: center;
+}
+#form{
+	color: pink;
+	font-size: 25px;
+}
+#button{
+	height: 40px;
+	width: 150px;
+	font-size: 25px;
+	color: pink;
+}
+#price{
+	height: 40px;
+	width: 150px;
+	font-size: 25px;
+}
+#discount{
+	height: 40px;
+	width: 150px;
+	font-size: 25px;
+}
+#total{
+	height: 40px;
+	width: 150px;
+	font-size: 25px;
+}
